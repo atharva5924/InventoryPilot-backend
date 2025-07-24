@@ -14,7 +14,7 @@ This is the Node.js + Express.js backend for the **Inventory Management Tool** �
 
 The Express.js + MongoDB backend is deployed on Render:
 
-📡 API Base: [`https://pinpointmap-backend.onrender.com`](https://inventorypilot-backend-ib2e.onrender.com)<br/>
+📡 API Base: [`https://inventorypilot-backend-ib2e.onrender.com`](https://inventorypilot-backend-ib2e.onrender.com)<br/>
 📂 [Frontend GitHub Repository](https://github.com/atharva5924/InventoryPilot-frontend)<br/>
 Used by the frontend to perform CRUD operations for inventory items.
 
