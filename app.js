@@ -7,7 +7,6 @@ import productRoutes from "./routes/product.routes.js";
 import analyticsRoutes from "./routes/analytics.routes.js";
 import swaggerUi from "swagger-ui-express";
 import cookieParser from "cookie-parser";
-// import swaggerDoc from "./docs/swagger.json" assert { type: "json" };
 import fs from "fs";
 const swaggerDoc = JSON.parse(fs.readFileSync("./docs/swagger.json", "utf-8"));
 
@@ -17,7 +16,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://inventory-pilot-frontend.vercel.app",
     credentials: true,
   })
 );
