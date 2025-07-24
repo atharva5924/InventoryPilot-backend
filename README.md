@@ -6,7 +6,7 @@ This is the Node.js + Express.js backend for the **Inventory Management Tool** �
 
 ### 🚀 Live Demo
 
-🔗 [Deployed Live on Vercel](https://pin-point-map-frontend.vercel.app/)
+🔗 [Deployed Live on Vercel](https://inventory-pilot-frontend.vercel.app/)
 
 ---
 
