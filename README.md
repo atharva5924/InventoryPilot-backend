@@ -135,7 +135,7 @@ inventory-backend/
 
 **Atharva Nile**
 CSE Undergrad @ IIIT Nagpur
-📧 atharvanile2005@gmail.com
+📧 nileatharva20@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/atharva-nile-a50120294) • [GitHub](https://github.com/atharva5924)
 
 ---
@@ -147,3 +147,4 @@ Let me know if you'd like:
 - Postman collection export instructions or API test guide
 
 ---
+
